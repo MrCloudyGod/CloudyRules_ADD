@@ -1,7 +1,5 @@
 payload:
-  - '+.zcool.com.cn'
-  - '+.zcool.cn'
-  - '+.agemys.org'
-  - '+.agedm.org'
-  - '+.freeok.vip'
-  - '+.freeok.pro'
+  - DOMAIN-SUFFIX,agemys.org
+  - DOMAIN-SUFFIX,agedm.org
+  - DOMAIN-SUFFIX,freeok.vip
+  - DOMAIN-SUFFIX,freeok.pro
