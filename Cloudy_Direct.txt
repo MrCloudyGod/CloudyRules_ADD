@@ -1,0 +1,7 @@
+payload:
+  - '+.zcool.com.cn'
+  - '+.zcool.cn'
+  - '+.agemys.org'
+  - '+.agedm.org'
+  - '+.freeok.vip'
+  - '+.freeok.pro'
